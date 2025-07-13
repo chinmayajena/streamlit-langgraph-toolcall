@@ -1,0 +1,1502 @@
+{
+  "delhi": {
+    "status": "success",
+    "location": "Delhi",
+    "summary": "Clear. 36 C (97F)"
+  },
+  "mumbai": {
+    "status": "success",
+    "location": "Mumbai",
+    "summary": "Sunny. 27 C (81F)"
+  },
+  "kolkata": {
+    "status": "success",
+    "location": "Kolkata",
+    "summary": "Windy. 33 C (91F)"
+  },
+  "chennai": {
+    "status": "success",
+    "location": "Chennai",
+    "summary": "Clear. 22 C (72F)"
+  },
+  "bangalore": {
+    "status": "success",
+    "location": "Bangalore",
+    "summary": "Rainy. 20 C (68F)"
+  },
+  "hyderabad": {
+    "status": "success",
+    "location": "Hyderabad",
+    "summary": "Hazy. 29 C (84F)"
+  },
+  "pune": {
+    "status": "success",
+    "location": "Pune",
+    "summary": "Hazy. 38 C (100F)"
+  },
+  "ahmedabad": {
+    "status": "success",
+    "location": "Ahmedabad",
+    "summary": "Windy. 24 C (75F)"
+  },
+  "jaipur": {
+    "status": "success",
+    "location": "Jaipur",
+    "summary": "Hazy. 25 C (77F)"
+  },
+  "lucknow": {
+    "status": "success",
+    "location": "Lucknow",
+    "summary": "Sunny. 25 C (77F)"
+  },
+  "kanpur": {
+    "status": "success",
+    "location": "Kanpur",
+    "summary": "Sunny. 35 C (95F)"
+  },
+  "nagpur": {
+    "status": "success",
+    "location": "Nagpur",
+    "summary": "Clear. 37 C (99F)"
+  },
+  "indore": {
+    "status": "success",
+    "location": "Indore",
+    "summary": "Foggy. 20 C (68F)"
+  },
+  "bhopal": {
+    "status": "success",
+    "location": "Bhopal",
+    "summary": "Windy. 38 C (100F)"
+  },
+  "patna": {
+    "status": "success",
+    "location": "Patna",
+    "summary": "Windy. 32 C (90F)"
+  },
+  "ludhiana": {
+    "status": "success",
+    "location": "Ludhiana",
+    "summary": "Clear. 39 C (102F)"
+  },
+  "agra": {
+    "status": "success",
+    "location": "Agra",
+    "summary": "Cloudy. 19 C (66F)"
+  },
+  "nashik": {
+    "status": "success",
+    "location": "Nashik",
+    "summary": "Clear. 31 C (88F)"
+  },
+  "vadodara": {
+    "status": "success",
+    "location": "Vadodara",
+    "summary": "Sunny. 39 C (102F)"
+  },
+  "faridabad": {
+    "status": "success",
+    "location": "Faridabad",
+    "summary": "Foggy. 28 C (82F)"
+  },
+  "meerut": {
+    "status": "success",
+    "location": "Meerut",
+    "summary": "Sunny. 37 C (99F)"
+  },
+  "rajkot": {
+    "status": "success",
+    "location": "Rajkot",
+    "summary": "Clear. 36 C (97F)"
+  },
+  "kalyan": {
+    "status": "success",
+    "location": "Kalyan",
+    "summary": "Foggy. 15 C (59F)"
+  },
+  "vasai": {
+    "status": "success",
+    "location": "Vasai",
+    "summary": "Foggy. 23 C (73F)"
+  },
+  "varanasi": {
+    "status": "success",
+    "location": "Varanasi",
+    "summary": "Rainy. 31 C (88F)"
+  },
+  "srinagar": {
+    "status": "success",
+    "location": "Srinagar",
+    "summary": "Foggy. 32 C (90F)"
+  },
+  "aurangabad": {
+    "status": "success",
+    "location": "Aurangabad",
+    "summary": "Foggy. 21 C (70F)"
+  },
+  "dhanbad": {
+    "status": "success",
+    "location": "Dhanbad",
+    "summary": "Foggy. 25 C (77F)"
+  },
+  "amritsar": {
+    "status": "success",
+    "location": "Amritsar",
+    "summary": "Sunny. 26 C (79F)"
+  },
+  "navi mumbai": {
+    "status": "success",
+    "location": "Navi Mumbai",
+    "summary": "Cloudy. 37 C (99F)"
+  },
+  "allahabad": {
+    "status": "success",
+    "location": "Allahabad",
+    "summary": "Clear. 32 C (90F)"
+  },
+  "ranchi": {
+    "status": "success",
+    "location": "Ranchi",
+    "summary": "Clear. 40 C (104F)"
+  },
+  "howrah": {
+    "status": "success",
+    "location": "Howrah",
+    "summary": "Sunny. 19 C (66F)"
+  },
+  "jabalpur": {
+    "status": "success",
+    "location": "Jabalpur",
+    "summary": "Rainy. 30 C (86F)"
+  },
+  "gwalior": {
+    "status": "success",
+    "location": "Gwalior",
+    "summary": "Sunny. 39 C (102F)"
+  },
+  "vijayawada": {
+    "status": "success",
+    "location": "Vijayawada",
+    "summary": "Sunny. 24 C (75F)"
+  },
+  "jodhpur": {
+    "status": "success",
+    "location": "Jodhpur",
+    "summary": "Windy. 34 C (93F)"
+  },
+  "madurai": {
+    "status": "success",
+    "location": "Madurai",
+    "summary": "Stormy. 32 C (90F)"
+  },
+  "raipur": {
+    "status": "success",
+    "location": "Raipur",
+    "summary": "Foggy. 18 C (64F)"
+  },
+  "kota": {
+    "status": "success",
+    "location": "Kota",
+    "summary": "Foggy. 30 C (86F)"
+  },
+  "guwahati": {
+    "status": "success",
+    "location": "Guwahati",
+    "summary": "Rainy. 24 C (75F)"
+  },
+  "chandigarh": {
+    "status": "success",
+    "location": "Chandigarh",
+    "summary": "Hazy. 16 C (61F)"
+  },
+  "solapur": {
+    "status": "success",
+    "location": "Solapur",
+    "summary": "Hazy. 38 C (100F)"
+  },
+  "hubli": {
+    "status": "success",
+    "location": "Hubli",
+    "summary": "Stormy. 39 C (102F)"
+  },
+  "mysore": {
+    "status": "success",
+    "location": "Mysore",
+    "summary": "Rainy. 17 C (63F)"
+  },
+  "tiruchirappalli": {
+    "status": "success",
+    "location": "Tiruchirappalli",
+    "summary": "Rainy. 19 C (66F)"
+  },
+  "bareilly": {
+    "status": "success",
+    "location": "Bareilly",
+    "summary": "Windy. 28 C (82F)"
+  },
+  "aligarh": {
+    "status": "success",
+    "location": "Aligarh",
+    "summary": "Foggy. 28 C (82F)"
+  },
+  "tiruppur": {
+    "status": "success",
+    "location": "Tiruppur",
+    "summary": "Windy. 36 C (97F)"
+  },
+  "moradabad": {
+    "status": "success",
+    "location": "Moradabad",
+    "summary": "Stormy. 18 C (64F)"
+  },
+  "jalandhar": {
+    "status": "success",
+    "location": "Jalandhar",
+    "summary": "Stormy. 18 C (64F)"
+  },
+  "bhubaneswar": {
+    "status": "success",
+    "location": "Bhubaneswar",
+    "summary": "Rainy. 36 C (97F)"
+  },
+  "salem": {
+    "status": "success",
+    "location": "Salem",
+    "summary": "Rainy. 33 C (91F)"
+  },
+  "warangal": {
+    "status": "success",
+    "location": "Warangal",
+    "summary": "Hazy. 38 C (100F)"
+  },
+  "guntur": {
+    "status": "success",
+    "location": "Guntur",
+    "summary": "Windy. 19 C (66F)"
+  },
+  "bhiwandi": {
+    "status": "success",
+    "location": "Bhiwandi",
+    "summary": "Rainy. 16 C (61F)"
+  },
+  "saharanpur": {
+    "status": "success",
+    "location": "Saharanpur",
+    "summary": "Windy. 30 C (86F)"
+  },
+  "gorakhpur": {
+    "status": "success",
+    "location": "Gorakhpur",
+    "summary": "Cloudy. 34 C (93F)"
+  },
+  "bikaner": {
+    "status": "success",
+    "location": "Bikaner",
+    "summary": "Clear. 16 C (61F)"
+  },
+  "amravati": {
+    "status": "success",
+    "location": "Amravati",
+    "summary": "Cloudy. 17 C (63F)"
+  },
+  "noida": {
+    "status": "success",
+    "location": "Noida",
+    "summary": "Windy. 37 C (99F)"
+  },
+  "jamshedpur": {
+    "status": "success",
+    "location": "Jamshedpur",
+    "summary": "Cloudy. 26 C (79F)"
+  },
+  "bhilai": {
+    "status": "success",
+    "location": "Bhilai",
+    "summary": "Hazy. 15 C (59F)"
+  },
+  "cuttack": {
+    "status": "success",
+    "location": "Cuttack",
+    "summary": "Hazy. 29 C (84F)"
+  },
+  "firozabad": {
+    "status": "success",
+    "location": "Firozabad",
+    "summary": "Sunny. 19 C (66F)"
+  },
+  "kochi": {
+    "status": "success",
+    "location": "Kochi",
+    "summary": "Foggy. 35 C (95F)"
+  },
+  "nellore": {
+    "status": "success",
+    "location": "Nellore",
+    "summary": "Foggy. 40 C (104F)"
+  },
+  "bhavnagar": {
+    "status": "success",
+    "location": "Bhavnagar",
+    "summary": "Foggy. 17 C (63F)"
+  },
+  "dehradun": {
+    "status": "success",
+    "location": "Dehradun",
+    "summary": "Windy. 31 C (88F)"
+  },
+  "durgapur": {
+    "status": "success",
+    "location": "Durgapur",
+    "summary": "Hazy. 40 C (104F)"
+  },
+  "asansol": {
+    "status": "success",
+    "location": "Asansol",
+    "summary": "Hazy. 29 C (84F)"
+  },
+  "rourkela": {
+    "status": "success",
+    "location": "Rourkela",
+    "summary": "Clear. 29 C (84F)"
+  },
+  "nanded": {
+    "status": "success",
+    "location": "Nanded",
+    "summary": "Foggy. 32 C (90F)"
+  },
+  "kolhapur": {
+    "status": "success",
+    "location": "Kolhapur",
+    "summary": "Hazy. 26 C (79F)"
+  },
+  "ajmer": {
+    "status": "success",
+    "location": "Ajmer",
+    "summary": "Foggy. 27 C (81F)"
+  },
+  "akola": {
+    "status": "success",
+    "location": "Akola",
+    "summary": "Foggy. 34 C (93F)"
+  },
+  "gulbarga": {
+    "status": "success",
+    "location": "Gulbarga",
+    "summary": "Windy. 27 C (81F)"
+  },
+  "jamnagar": {
+    "status": "success",
+    "location": "Jamnagar",
+    "summary": "Rainy. 36 C (97F)"
+  },
+  "ujjain": {
+    "status": "success",
+    "location": "Ujjain",
+    "summary": "Sunny. 19 C (66F)"
+  },
+  "loni": {
+    "status": "success",
+    "location": "Loni",
+    "summary": "Sunny. 32 C (90F)"
+  },
+  "siliguri": {
+    "status": "success",
+    "location": "Siliguri",
+    "summary": "Rainy. 15 C (59F)"
+  },
+  "jhansi": {
+    "status": "success",
+    "location": "Jhansi",
+    "summary": "Rainy. 25 C (77F)"
+  },
+  "ulhasnagar": {
+    "status": "success",
+    "location": "Ulhasnagar",
+    "summary": "Hazy. 16 C (61F)"
+  },
+  "jammu": {
+    "status": "success",
+    "location": "Jammu",
+    "summary": "Stormy. 31 C (88F)"
+  },
+  "sangli": {
+    "status": "success",
+    "location": "Sangli",
+    "summary": "Stormy. 40 C (104F)"
+  },
+  "mangalore": {
+    "status": "success",
+    "location": "Mangalore",
+    "summary": "Hazy. 40 C (104F)"
+  },
+  "erode": {
+    "status": "success",
+    "location": "Erode",
+    "summary": "Hazy. 38 C (100F)"
+  },
+  "belgaum": {
+    "status": "success",
+    "location": "Belgaum",
+    "summary": "Rainy. 26 C (79F)"
+  },
+  "ambattur": {
+    "status": "success",
+    "location": "Ambattur",
+    "summary": "Foggy. 38 C (100F)"
+  },
+  "tirunelveli": {
+    "status": "success",
+    "location": "Tirunelveli",
+    "summary": "Sunny. 24 C (75F)"
+  },
+  "malegaon": {
+    "status": "success",
+    "location": "Malegaon",
+    "summary": "Cloudy. 31 C (88F)"
+  },
+  "gaya": {
+    "status": "success",
+    "location": "Gaya",
+    "summary": "Hazy. 17 C (63F)"
+  },
+  "udaipur": {
+    "status": "success",
+    "location": "Udaipur",
+    "summary": "Foggy. 37 C (99F)"
+  },
+  "maheshtala": {
+    "status": "success",
+    "location": "Maheshtala",
+    "summary": "Sunny. 38 C (100F)"
+  },
+  "davanagere": {
+    "status": "success",
+    "location": "Davanagere",
+    "summary": "Foggy. 22 C (72F)"
+  },
+  "kozhikode": {
+    "status": "success",
+    "location": "Kozhikode",
+    "summary": "Stormy. 30 C (86F)"
+  },
+  "kurnool": {
+    "status": "success",
+    "location": "Kurnool",
+    "summary": "Stormy. 28 C (82F)"
+  },
+  "rajpur": {
+    "status": "success",
+    "location": "Rajpur",
+    "summary": "Hazy. 29 C (84F)"
+  },
+  "bokaro": {
+    "status": "success",
+    "location": "Bokaro",
+    "summary": "Stormy. 37 C (99F)"
+  },
+  "south dumdum": {
+    "status": "success",
+    "location": "South Dumdum",
+    "summary": "Windy. 26 C (79F)"
+  },
+  "salem_49": {
+    "status": "success",
+    "location": "Salem_49",
+    "summary": "Foggy. 40 C (104F)"
+  },
+  "bangalore_24": {
+    "status": "success",
+    "location": "Bangalore_24",
+    "summary": "Foggy. 24 C (75F)"
+  },
+  "salem_49_69": {
+    "status": "success",
+    "location": "Salem_49_69",
+    "summary": "Hazy. 37 C (99F)"
+  },
+  "aligarh_36": {
+    "status": "success",
+    "location": "Aligarh_36",
+    "summary": "Foggy. 30 C (86F)"
+  },
+  "agra_32": {
+    "status": "success",
+    "location": "Agra_32",
+    "summary": "Clear. 24 C (75F)"
+  },
+  "allahabad_23": {
+    "status": "success",
+    "location": "Allahabad_23",
+    "summary": "Hazy. 17 C (63F)"
+  },
+  "guwahati_60": {
+    "status": "success",
+    "location": "Guwahati_60",
+    "summary": "Hazy. 34 C (93F)"
+  },
+  "gulbarga_88": {
+    "status": "success",
+    "location": "Gulbarga_88",
+    "summary": "Hazy. 35 C (95F)"
+  },
+  "cuttack_1": {
+    "status": "success",
+    "location": "Cuttack_1",
+    "summary": "Foggy. 20 C (68F)"
+  },
+  "ujjain_90": {
+    "status": "success",
+    "location": "Ujjain_90",
+    "summary": "Cloudy. 38 C (100F)"
+  },
+  "durgapur_63": {
+    "status": "success",
+    "location": "Durgapur_63",
+    "summary": "Sunny. 40 C (104F)"
+  },
+  "durgapur_13": {
+    "status": "success",
+    "location": "Durgapur_13",
+    "summary": "Stormy. 15 C (59F)"
+  },
+  "asansol_17": {
+    "status": "success",
+    "location": "Asansol_17",
+    "summary": "Stormy. 25 C (77F)"
+  },
+  "gulbarga_88_43": {
+    "status": "success",
+    "location": "Gulbarga_88_43",
+    "summary": "Cloudy. 24 C (75F)"
+  },
+  "udaipur_84": {
+    "status": "success",
+    "location": "Udaipur_84",
+    "summary": "Stormy. 27 C (81F)"
+  },
+  "gulbarga_88_89": {
+    "status": "success",
+    "location": "Gulbarga_88_89",
+    "summary": "Foggy. 21 C (70F)"
+  },
+  "ujjain_53": {
+    "status": "success",
+    "location": "Ujjain_53",
+    "summary": "Foggy. 24 C (75F)"
+  },
+  "bhubaneswar_9": {
+    "status": "success",
+    "location": "Bhubaneswar_9",
+    "summary": "Windy. 34 C (93F)"
+  },
+  "ujjain_53_68": {
+    "status": "success",
+    "location": "Ujjain_53_68",
+    "summary": "Clear. 24 C (75F)"
+  },
+  "akola_52": {
+    "status": "success",
+    "location": "Akola_52",
+    "summary": "Rainy. 25 C (77F)"
+  },
+  "ahmedabad_16": {
+    "status": "success",
+    "location": "Ahmedabad_16",
+    "summary": "Clear. 21 C (70F)"
+  },
+  "jhansi_80": {
+    "status": "success",
+    "location": "Jhansi_80",
+    "summary": "Rainy. 17 C (63F)"
+  },
+  "jhansi_80_12": {
+    "status": "success",
+    "location": "Jhansi_80_12",
+    "summary": "Clear. 21 C (70F)"
+  },
+  "kozhikode_91": {
+    "status": "success",
+    "location": "Kozhikode_91",
+    "summary": "Stormy. 32 C (90F)"
+  },
+  "ambattur_63": {
+    "status": "success",
+    "location": "Ambattur_63",
+    "summary": "Stormy. 31 C (88F)"
+  },
+  "ahmedabad_83": {
+    "status": "success",
+    "location": "Ahmedabad_83",
+    "summary": "Cloudy. 38 C (100F)"
+  },
+  "kolkata_19": {
+    "status": "success",
+    "location": "Kolkata_19",
+    "summary": "Foggy. 32 C (90F)"
+  },
+  "jabalpur_38": {
+    "status": "success",
+    "location": "Jabalpur_38",
+    "summary": "Hazy. 18 C (64F)"
+  },
+  "mysore_63": {
+    "status": "success",
+    "location": "Mysore_63",
+    "summary": "Cloudy. 30 C (86F)"
+  },
+  "kurnool_32": {
+    "status": "success",
+    "location": "Kurnool_32",
+    "summary": "Windy. 39 C (102F)"
+  },
+  "lucknow_92": {
+    "status": "success",
+    "location": "Lucknow_92",
+    "summary": "Clear. 29 C (84F)"
+  },
+  "agra_16": {
+    "status": "success",
+    "location": "Agra_16",
+    "summary": "Sunny. 29 C (84F)"
+  },
+  "tiruppur_20": {
+    "status": "success",
+    "location": "Tiruppur_20",
+    "summary": "Stormy. 17 C (63F)"
+  },
+  "kozhikode_91_78": {
+    "status": "success",
+    "location": "Kozhikode_91_78",
+    "summary": "Hazy. 19 C (66F)"
+  },
+  "bhilai_97": {
+    "status": "success",
+    "location": "Bhilai_97",
+    "summary": "Cloudy. 16 C (61F)"
+  },
+  "malegaon_16": {
+    "status": "success",
+    "location": "Malegaon_16",
+    "summary": "Rainy. 21 C (70F)"
+  },
+  "agra_32_28": {
+    "status": "success",
+    "location": "Agra_32_28",
+    "summary": "Sunny. 23 C (73F)"
+  },
+  "warangal_6": {
+    "status": "success",
+    "location": "Warangal_6",
+    "summary": "Foggy. 28 C (82F)"
+  },
+  "udaipur_48": {
+    "status": "success",
+    "location": "Udaipur_48",
+    "summary": "Windy. 20 C (68F)"
+  },
+  "davanagere_21": {
+    "status": "success",
+    "location": "Davanagere_21",
+    "summary": "Clear. 28 C (82F)"
+  },
+  "guwahati_47": {
+    "status": "success",
+    "location": "Guwahati_47",
+    "summary": "Clear. 38 C (100F)"
+  },
+  "kolkata_3": {
+    "status": "success",
+    "location": "Kolkata_3",
+    "summary": "Clear. 22 C (72F)"
+  },
+  "jamnagar_92": {
+    "status": "success",
+    "location": "Jamnagar_92",
+    "summary": "Cloudy. 30 C (86F)"
+  },
+  "hubli_42": {
+    "status": "success",
+    "location": "Hubli_42",
+    "summary": "Hazy. 21 C (70F)"
+  },
+  "ahmedabad_83_43": {
+    "status": "success",
+    "location": "Ahmedabad_83_43",
+    "summary": "Hazy. 15 C (59F)"
+  },
+  "bareilly_35": {
+    "status": "success",
+    "location": "Bareilly_35",
+    "summary": "Rainy. 25 C (77F)"
+  },
+  "agra_16_17": {
+    "status": "success",
+    "location": "Agra_16_17",
+    "summary": "Cloudy. 16 C (61F)"
+  },
+  "tirunelveli_53": {
+    "status": "success",
+    "location": "Tirunelveli_53",
+    "summary": "Foggy. 34 C (93F)"
+  },
+  "lucknow_27": {
+    "status": "success",
+    "location": "Lucknow_27",
+    "summary": "Rainy. 29 C (84F)"
+  },
+  "noida_66": {
+    "status": "success",
+    "location": "Noida_66",
+    "summary": "Cloudy. 27 C (81F)"
+  },
+  "dhanbad_84": {
+    "status": "success",
+    "location": "Dhanbad_84",
+    "summary": "Foggy. 33 C (91F)"
+  },
+  "ambattur_42": {
+    "status": "success",
+    "location": "Ambattur_42",
+    "summary": "Windy. 23 C (73F)"
+  },
+  "malegaon_16_8": {
+    "status": "success",
+    "location": "Malegaon_16_8",
+    "summary": "Hazy. 37 C (99F)"
+  },
+  "hubli_97": {
+    "status": "success",
+    "location": "Hubli_97",
+    "summary": "Stormy. 21 C (70F)"
+  },
+  "jodhpur_92": {
+    "status": "success",
+    "location": "Jodhpur_92",
+    "summary": "Hazy. 23 C (73F)"
+  },
+  "srinagar_79": {
+    "status": "success",
+    "location": "Srinagar_79",
+    "summary": "Sunny. 35 C (95F)"
+  },
+  "mysore_63_33": {
+    "status": "success",
+    "location": "Mysore_63_33",
+    "summary": "Stormy. 39 C (102F)"
+  },
+  "salem_77": {
+    "status": "success",
+    "location": "Salem_77",
+    "summary": "Hazy. 19 C (66F)"
+  },
+  "noida_66_22": {
+    "status": "success",
+    "location": "Noida_66_22",
+    "summary": "Cloudy. 29 C (84F)"
+  },
+  "guwahati_22": {
+    "status": "success",
+    "location": "Guwahati_22",
+    "summary": "Hazy. 26 C (79F)"
+  },
+  "srinagar_8": {
+    "status": "success",
+    "location": "Srinagar_8",
+    "summary": "Sunny. 39 C (102F)"
+  },
+  "faridabad_50": {
+    "status": "success",
+    "location": "Faridabad_50",
+    "summary": "Stormy. 19 C (66F)"
+  },
+  "amritsar_95": {
+    "status": "success",
+    "location": "Amritsar_95",
+    "summary": "Stormy. 37 C (99F)"
+  },
+  "malegaon_16_64": {
+    "status": "success",
+    "location": "Malegaon_16_64",
+    "summary": "Stormy. 22 C (72F)"
+  },
+  "kolhapur_54": {
+    "status": "success",
+    "location": "Kolhapur_54",
+    "summary": "Sunny. 37 C (99F)"
+  },
+  "kochi_93": {
+    "status": "success",
+    "location": "Kochi_93",
+    "summary": "Clear. 16 C (61F)"
+  },
+  "bhopal_92": {
+    "status": "success",
+    "location": "Bhopal_92",
+    "summary": "Sunny. 34 C (93F)"
+  },
+  "kota_38": {
+    "status": "success",
+    "location": "Kota_38",
+    "summary": "Rainy. 26 C (79F)"
+  },
+  "amravati_99": {
+    "status": "success",
+    "location": "Amravati_99",
+    "summary": "Clear. 28 C (82F)"
+  },
+  "salem_91": {
+    "status": "success",
+    "location": "Salem_91",
+    "summary": "Hazy. 28 C (82F)"
+  },
+  "saharanpur_21": {
+    "status": "success",
+    "location": "Saharanpur_21",
+    "summary": "Foggy. 25 C (77F)"
+  },
+  "jamnagar_30": {
+    "status": "success",
+    "location": "Jamnagar_30",
+    "summary": "Clear. 39 C (102F)"
+  },
+  "kochi_93_30": {
+    "status": "success",
+    "location": "Kochi_93_30",
+    "summary": "Clear. 40 C (104F)"
+  },
+  "kochi_56": {
+    "status": "success",
+    "location": "Kochi_56",
+    "summary": "Stormy. 30 C (86F)"
+  },
+  "malegaon_16_71": {
+    "status": "success",
+    "location": "Malegaon_16_71",
+    "summary": "Cloudy. 15 C (59F)"
+  },
+  "amravati_99_97": {
+    "status": "success",
+    "location": "Amravati_99_97",
+    "summary": "Foggy. 34 C (93F)"
+  },
+  "dehradun_48": {
+    "status": "success",
+    "location": "Dehradun_48",
+    "summary": "Rainy. 23 C (73F)"
+  },
+  "udaipur_62": {
+    "status": "success",
+    "location": "Udaipur_62",
+    "summary": "Clear. 33 C (91F)"
+  },
+  "kolhapur_25": {
+    "status": "success",
+    "location": "Kolhapur_25",
+    "summary": "Foggy. 37 C (99F)"
+  },
+  "navi mumbai_32": {
+    "status": "success",
+    "location": "Navi Mumbai_32",
+    "summary": "Hazy. 23 C (73F)"
+  },
+  "maheshtala_97": {
+    "status": "success",
+    "location": "Maheshtala_97",
+    "summary": "Rainy. 34 C (93F)"
+  },
+  "howrah_81": {
+    "status": "success",
+    "location": "Howrah_81",
+    "summary": "Sunny. 32 C (90F)"
+  },
+  "akola_52_100": {
+    "status": "success",
+    "location": "Akola_52_100",
+    "summary": "Foggy. 24 C (75F)"
+  },
+  "kozhikode_91_78_3": {
+    "status": "success",
+    "location": "Kozhikode_91_78_3",
+    "summary": "Clear. 33 C (91F)"
+  },
+  "ambattur_23": {
+    "status": "success",
+    "location": "Ambattur_23",
+    "summary": "Windy. 20 C (68F)"
+  },
+  "ahmedabad_83_39": {
+    "status": "success",
+    "location": "Ahmedabad_83_39",
+    "summary": "Hazy. 24 C (75F)"
+  },
+  "ujjain_90_83": {
+    "status": "success",
+    "location": "Ujjain_90_83",
+    "summary": "Clear. 18 C (64F)"
+  },
+  "mumbai_54": {
+    "status": "success",
+    "location": "Mumbai_54",
+    "summary": "Rainy. 32 C (90F)"
+  },
+  "kolkata_19_21": {
+    "status": "success",
+    "location": "Kolkata_19_21",
+    "summary": "Sunny. 35 C (95F)"
+  },
+  "agra_16_25": {
+    "status": "success",
+    "location": "Agra_16_25",
+    "summary": "Sunny. 16 C (61F)"
+  },
+  "agra_16_17_53": {
+    "status": "success",
+    "location": "Agra_16_17_53",
+    "summary": "Windy. 20 C (68F)"
+  },
+  "loni_84": {
+    "status": "success",
+    "location": "Loni_84",
+    "summary": "Rainy. 31 C (88F)"
+  },
+  "howrah_81_63": {
+    "status": "success",
+    "location": "Howrah_81_63",
+    "summary": "Hazy. 21 C (70F)"
+  },
+  "amravati_69": {
+    "status": "success",
+    "location": "Amravati_69",
+    "summary": "Foggy. 30 C (86F)"
+  },
+  "jamnagar_92_34": {
+    "status": "success",
+    "location": "Jamnagar_92_34",
+    "summary": "Clear. 29 C (84F)"
+  },
+  "bareilly_35_57": {
+    "status": "success",
+    "location": "Bareilly_35_57",
+    "summary": "Sunny. 33 C (91F)"
+  },
+  "salem_80": {
+    "status": "success",
+    "location": "Salem_80",
+    "summary": "Stormy. 25 C (77F)"
+  },
+  "jhansi_80_69": {
+    "status": "success",
+    "location": "Jhansi_80_69",
+    "summary": "Cloudy. 18 C (64F)"
+  },
+  "south dumdum_28": {
+    "status": "success",
+    "location": "South Dumdum_28",
+    "summary": "Rainy. 23 C (73F)"
+  },
+  "ujjain_53_68_19": {
+    "status": "success",
+    "location": "Ujjain_53_68_19",
+    "summary": "Stormy. 36 C (97F)"
+  },
+  "loni_84_45": {
+    "status": "success",
+    "location": "Loni_84_45",
+    "summary": "Cloudy. 32 C (90F)"
+  },
+  "bhubaneswar_9_89": {
+    "status": "success",
+    "location": "Bhubaneswar_9_89",
+    "summary": "Stormy. 17 C (63F)"
+  },
+  "navi mumbai_42": {
+    "status": "success",
+    "location": "Navi Mumbai_42",
+    "summary": "Windy. 26 C (79F)"
+  },
+  "malegaon_16_71_51": {
+    "status": "success",
+    "location": "Malegaon_16_71_51",
+    "summary": "Rainy. 39 C (102F)"
+  },
+  "amravati_69_12": {
+    "status": "success",
+    "location": "Amravati_69_12",
+    "summary": "Cloudy. 15 C (59F)"
+  },
+  "malegaon_16_64_65": {
+    "status": "success",
+    "location": "Malegaon_16_64_65",
+    "summary": "Hazy. 29 C (84F)"
+  },
+  "mangalore_39": {
+    "status": "success",
+    "location": "Mangalore_39",
+    "summary": "Foggy. 27 C (81F)"
+  },
+  "saharanpur_71": {
+    "status": "success",
+    "location": "Saharanpur_71",
+    "summary": "Clear. 33 C (91F)"
+  },
+  "bhubaneswar_35": {
+    "status": "success",
+    "location": "Bhubaneswar_35",
+    "summary": "Windy. 20 C (68F)"
+  },
+  "sangli_34": {
+    "status": "success",
+    "location": "Sangli_34",
+    "summary": "Foggy. 40 C (104F)"
+  },
+  "allahabad_52": {
+    "status": "success",
+    "location": "Allahabad_52",
+    "summary": "Foggy. 31 C (88F)"
+  },
+  "ambattur_23_1": {
+    "status": "success",
+    "location": "Ambattur_23_1",
+    "summary": "Cloudy. 32 C (90F)"
+  },
+  "saharanpur_67": {
+    "status": "success",
+    "location": "Saharanpur_67",
+    "summary": "Sunny. 38 C (100F)"
+  },
+  "amritsar_95_46": {
+    "status": "success",
+    "location": "Amritsar_95_46",
+    "summary": "Cloudy. 19 C (66F)"
+  },
+  "bareilly_35_57_41": {
+    "status": "success",
+    "location": "Bareilly_35_57_41",
+    "summary": "Cloudy. 18 C (64F)"
+  },
+  "tirunelveli_30": {
+    "status": "success",
+    "location": "Tirunelveli_30",
+    "summary": "Hazy. 32 C (90F)"
+  },
+  "sangli_34_94": {
+    "status": "success",
+    "location": "Sangli_34_94",
+    "summary": "Hazy. 31 C (88F)"
+  },
+  "malegaon_16_71_87": {
+    "status": "success",
+    "location": "Malegaon_16_71_87",
+    "summary": "Rainy. 23 C (73F)"
+  },
+  "durgapur_76": {
+    "status": "success",
+    "location": "Durgapur_76",
+    "summary": "Windy. 15 C (59F)"
+  },
+  "howrah_81_3": {
+    "status": "success",
+    "location": "Howrah_81_3",
+    "summary": "Rainy. 40 C (104F)"
+  },
+  "bhubaneswar_84": {
+    "status": "success",
+    "location": "Bhubaneswar_84",
+    "summary": "Windy. 20 C (68F)"
+  },
+  "salem_96": {
+    "status": "success",
+    "location": "Salem_96",
+    "summary": "Stormy. 22 C (72F)"
+  },
+  "howrah_76": {
+    "status": "success",
+    "location": "Howrah_76",
+    "summary": "Sunny. 28 C (82F)"
+  },
+  "bhubaneswar_35_70": {
+    "status": "success",
+    "location": "Bhubaneswar_35_70",
+    "summary": "Clear. 23 C (73F)"
+  },
+  "malegaon_16_71_87_30": {
+    "status": "success",
+    "location": "Malegaon_16_71_87_30",
+    "summary": "Foggy. 18 C (64F)"
+  },
+  "udaipur_55": {
+    "status": "success",
+    "location": "Udaipur_55",
+    "summary": "Foggy. 21 C (70F)"
+  },
+  "kochi_93_30_72": {
+    "status": "success",
+    "location": "Kochi_93_30_72",
+    "summary": "Rainy. 17 C (63F)"
+  },
+  "malegaon_16_64_88": {
+    "status": "success",
+    "location": "Malegaon_16_64_88",
+    "summary": "Windy. 39 C (102F)"
+  },
+  "rajpur_60": {
+    "status": "success",
+    "location": "Rajpur_60",
+    "summary": "Stormy. 39 C (102F)"
+  },
+  "jamnagar_30_100": {
+    "status": "success",
+    "location": "Jamnagar_30_100",
+    "summary": "Stormy. 27 C (81F)"
+  },
+  "ranchi_28": {
+    "status": "success",
+    "location": "Ranchi_28",
+    "summary": "Cloudy. 30 C (86F)"
+  },
+  "bhopal_80": {
+    "status": "success",
+    "location": "Bhopal_80",
+    "summary": "Clear. 33 C (91F)"
+  },
+  "srinagar_60": {
+    "status": "success",
+    "location": "Srinagar_60",
+    "summary": "Clear. 16 C (61F)"
+  },
+  "malegaon_16_71_87_39": {
+    "status": "success",
+    "location": "Malegaon_16_71_87_39",
+    "summary": "Foggy. 38 C (100F)"
+  },
+  "ahmedabad_83_80": {
+    "status": "success",
+    "location": "Ahmedabad_83_80",
+    "summary": "Clear. 34 C (93F)"
+  },
+  "chandigarh_48": {
+    "status": "success",
+    "location": "Chandigarh_48",
+    "summary": "Clear. 25 C (77F)"
+  },
+  "firozabad_86": {
+    "status": "success",
+    "location": "Firozabad_86",
+    "summary": "Foggy. 27 C (81F)"
+  },
+  "bhopal_92_78": {
+    "status": "success",
+    "location": "Bhopal_92_78",
+    "summary": "Foggy. 30 C (86F)"
+  },
+  "mysore_63_32": {
+    "status": "success",
+    "location": "Mysore_63_32",
+    "summary": "Cloudy. 26 C (79F)"
+  },
+  "agra_16_25_89": {
+    "status": "success",
+    "location": "Agra_16_25_89",
+    "summary": "Stormy. 22 C (72F)"
+  },
+  "malegaon_16_71_87_93": {
+    "status": "success",
+    "location": "Malegaon_16_71_87_93",
+    "summary": "Sunny. 15 C (59F)"
+  },
+  "bokaro_11": {
+    "status": "success",
+    "location": "Bokaro_11",
+    "summary": "Stormy. 17 C (63F)"
+  },
+  "howrah_76_44": {
+    "status": "success",
+    "location": "Howrah_76_44",
+    "summary": "Sunny. 33 C (91F)"
+  },
+  "lucknow_27_13": {
+    "status": "success",
+    "location": "Lucknow_27_13",
+    "summary": "Stormy. 37 C (99F)"
+  },
+  "kozhikode_91_94": {
+    "status": "success",
+    "location": "Kozhikode_91_94",
+    "summary": "Stormy. 27 C (81F)"
+  },
+  "jodhpur_92_7": {
+    "status": "success",
+    "location": "Jodhpur_92_7",
+    "summary": "Windy. 29 C (84F)"
+  },
+  "malegaon_16_71_87_30_39": {
+    "status": "success",
+    "location": "Malegaon_16_71_87_30_39",
+    "summary": "Clear. 33 C (91F)"
+  },
+  "howrah_76_67": {
+    "status": "success",
+    "location": "Howrah_76_67",
+    "summary": "Stormy. 19 C (66F)"
+  },
+  "ahmedabad_16_64": {
+    "status": "success",
+    "location": "Ahmedabad_16_64",
+    "summary": "Rainy. 39 C (102F)"
+  },
+  "malegaon_16_71_87_39_91": {
+    "status": "success",
+    "location": "Malegaon_16_71_87_39_91",
+    "summary": "Stormy. 18 C (64F)"
+  },
+  "kolhapur_54_41": {
+    "status": "success",
+    "location": "Kolhapur_54_41",
+    "summary": "Windy. 19 C (66F)"
+  },
+  "mangalore_39_10": {
+    "status": "success",
+    "location": "Mangalore_39_10",
+    "summary": "Windy. 40 C (104F)"
+  },
+  "srinagar_8_86": {
+    "status": "success",
+    "location": "Srinagar_8_86",
+    "summary": "Cloudy. 27 C (81F)"
+  },
+  "asansol_88": {
+    "status": "success",
+    "location": "Asansol_88",
+    "summary": "Rainy. 35 C (95F)"
+  },
+  "bhubaneswar_35_46": {
+    "status": "success",
+    "location": "Bhubaneswar_35_46",
+    "summary": "Foggy. 32 C (90F)"
+  },
+  "tiruppur_33": {
+    "status": "success",
+    "location": "Tiruppur_33",
+    "summary": "Cloudy. 27 C (81F)"
+  },
+  "salem_49_69_84": {
+    "status": "success",
+    "location": "Salem_49_69_84",
+    "summary": "Windy. 18 C (64F)"
+  },
+  "jamshedpur_95": {
+    "status": "success",
+    "location": "Jamshedpur_95",
+    "summary": "Rainy. 23 C (73F)"
+  },
+  "salem_49_69_45": {
+    "status": "success",
+    "location": "Salem_49_69_45",
+    "summary": "Windy. 28 C (82F)"
+  },
+  "lucknow_92_30": {
+    "status": "success",
+    "location": "Lucknow_92_30",
+    "summary": "Sunny. 40 C (104F)"
+  },
+  "ahmedabad_16_35": {
+    "status": "success",
+    "location": "Ahmedabad_16_35",
+    "summary": "Stormy. 38 C (100F)"
+  },
+  "kozhikode_91_78_3_31": {
+    "status": "success",
+    "location": "Kozhikode_91_78_3_31",
+    "summary": "Windy. 23 C (73F)"
+  },
+  "kozhikode_91_94_87": {
+    "status": "success",
+    "location": "Kozhikode_91_94_87",
+    "summary": "Windy. 30 C (86F)"
+  },
+  "bhilai_97_39": {
+    "status": "success",
+    "location": "Bhilai_97_39",
+    "summary": "Windy. 26 C (79F)"
+  },
+  "bhubaneswar_35_17": {
+    "status": "success",
+    "location": "Bhubaneswar_35_17",
+    "summary": "Hazy. 36 C (97F)"
+  },
+  "kochi_2": {
+    "status": "success",
+    "location": "Kochi_2",
+    "summary": "Hazy. 32 C (90F)"
+  },
+  "dehradun_6": {
+    "status": "success",
+    "location": "Dehradun_6",
+    "summary": "Rainy. 15 C (59F)"
+  },
+  "maheshtala_97_18": {
+    "status": "success",
+    "location": "Maheshtala_97_18",
+    "summary": "Cloudy. 25 C (77F)"
+  },
+  "ambattur_23_1_43": {
+    "status": "success",
+    "location": "Ambattur_23_1_43",
+    "summary": "Sunny. 24 C (75F)"
+  },
+  "gulbarga_70": {
+    "status": "success",
+    "location": "Gulbarga_70",
+    "summary": "Hazy. 16 C (61F)"
+  },
+  "ahmedabad_83_80_93": {
+    "status": "success",
+    "location": "Ahmedabad_83_80_93",
+    "summary": "Sunny. 39 C (102F)"
+  },
+  "ujjain_53_52": {
+    "status": "success",
+    "location": "Ujjain_53_52",
+    "summary": "Cloudy. 21 C (70F)"
+  },
+  "bhopal_92_50": {
+    "status": "success",
+    "location": "Bhopal_92_50",
+    "summary": "Hazy. 16 C (61F)"
+  },
+  "amritsar_95_46_19": {
+    "status": "success",
+    "location": "Amritsar_95_46_19",
+    "summary": "Windy. 17 C (63F)"
+  },
+  "chennai_69": {
+    "status": "success",
+    "location": "Chennai_69",
+    "summary": "Windy. 30 C (86F)"
+  },
+  "jamshedpur_95_55": {
+    "status": "success",
+    "location": "Jamshedpur_95_55",
+    "summary": "Stormy. 22 C (72F)"
+  },
+  "bhopal_93": {
+    "status": "success",
+    "location": "Bhopal_93",
+    "summary": "Foggy. 36 C (97F)"
+  },
+  "warangal_94": {
+    "status": "success",
+    "location": "Warangal_94",
+    "summary": "Hazy. 35 C (95F)"
+  },
+  "nellore_18": {
+    "status": "success",
+    "location": "Nellore_18",
+    "summary": "Rainy. 35 C (95F)"
+  },
+  "bhubaneswar_35_17_5": {
+    "status": "success",
+    "location": "Bhubaneswar_35_17_5",
+    "summary": "Foggy. 15 C (59F)"
+  },
+  "jodhpur_69": {
+    "status": "success",
+    "location": "Jodhpur_69",
+    "summary": "Foggy. 20 C (68F)"
+  },
+  "rajpur_14": {
+    "status": "success",
+    "location": "Rajpur_14",
+    "summary": "Hazy. 25 C (77F)"
+  },
+  "bhopal_80_76": {
+    "status": "success",
+    "location": "Bhopal_80_76",
+    "summary": "Windy. 39 C (102F)"
+  },
+  "howrah_53": {
+    "status": "success",
+    "location": "Howrah_53",
+    "summary": "Rainy. 32 C (90F)"
+  },
+  "firozabad_86_51": {
+    "status": "success",
+    "location": "Firozabad_86_51",
+    "summary": "Sunny. 22 C (72F)"
+  },
+  "srinagar_45": {
+    "status": "success",
+    "location": "Srinagar_45",
+    "summary": "Clear. 34 C (93F)"
+  },
+  "agra_16_17_49": {
+    "status": "success",
+    "location": "Agra_16_17_49",
+    "summary": "Cloudy. 29 C (84F)"
+  },
+  "howrah_76_44_54": {
+    "status": "success",
+    "location": "Howrah_76_44_54",
+    "summary": "Sunny. 39 C (102F)"
+  },
+  "bangalore_24_93": {
+    "status": "success",
+    "location": "Bangalore_24_93",
+    "summary": "Stormy. 15 C (59F)"
+  },
+  "lucknow_27_30": {
+    "status": "success",
+    "location": "Lucknow_27_30",
+    "summary": "Rainy. 35 C (95F)"
+  },
+  "jodhpur_69_17": {
+    "status": "success",
+    "location": "Jodhpur_69_17",
+    "summary": "Stormy. 32 C (90F)"
+  },
+  "gulbarga_88_43_22": {
+    "status": "success",
+    "location": "Gulbarga_88_43_22",
+    "summary": "Rainy. 15 C (59F)"
+  },
+  "agra_16_17_53_10": {
+    "status": "success",
+    "location": "Agra_16_17_53_10",
+    "summary": "Hazy. 27 C (81F)"
+  },
+  "bangalore_24_100": {
+    "status": "success",
+    "location": "Bangalore_24_100",
+    "summary": "Stormy. 23 C (73F)"
+  },
+  "gulbarga_88_79": {
+    "status": "success",
+    "location": "Gulbarga_88_79",
+    "summary": "Hazy. 39 C (102F)"
+  },
+  "howrah_81_24": {
+    "status": "success",
+    "location": "Howrah_81_24",
+    "summary": "Stormy. 17 C (63F)"
+  },
+  "erode_47": {
+    "status": "success",
+    "location": "Erode_47",
+    "summary": "Cloudy. 39 C (102F)"
+  },
+  "bareilly_35_57_41_79": {
+    "status": "success",
+    "location": "Bareilly_35_57_41_79",
+    "summary": "Stormy. 16 C (61F)"
+  },
+  "udaipur_48_41": {
+    "status": "success",
+    "location": "Udaipur_48_41",
+    "summary": "Sunny. 31 C (88F)"
+  },
+  "bhopal_93_4": {
+    "status": "success",
+    "location": "Bhopal_93_4",
+    "summary": "Windy. 32 C (90F)"
+  }
+}

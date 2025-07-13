@@ -34,7 +34,20 @@ def get_weather(location: str) -> Dict[str, Any]:
         weather_data = json.load(file)
 
     # Example usage: print weather summary for Bangalore
-    print(weather_data['bangalore']['summary'])
+    # print(weather_data['bangalore']['summary'])
+
+    location_lowercased = location.lower()
+
+    if location_lowercased in weather_data:
+        print(f"DEBUG: Returning mock weather data for: {location_lowercased}")
+        return weather_data[location_lowercased]
+    else:
+        print(
+            f"DEBUG: Mock weather data for: {location_lowercased} is not available right now!")
+        return {
+            "status": "error",
+            "message": f"I don't have weather data for {location}. Try for Pune or Kolkata etc. "
+        }
 
 
 if __name__ == "__main__":
