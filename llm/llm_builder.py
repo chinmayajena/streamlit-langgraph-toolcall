@@ -2,10 +2,12 @@
 from enum import Enum
 from typing import Optional, Dict, Any
 import os
-
 from dotenv import load_dotenv
-from langchain.llms import OpenAI, AzureOpenAI, Anthropic, GoogleGemini
-# from your_grok_module import Grok  # hypothetical
+from langchain.chat_models import ChatOpenAI
+from langchain_openai import AzureChatOpenAI
+from langchain_anthropic import ChatAnthropic
+from langchain_google_genai import ChatGoogleGenerativeAI
+
 
 # Load .env into os.environ
 load_dotenv()
@@ -44,22 +46,23 @@ class LLMBuilder:
         self,
         deployment_name: Optional[str] = None,
         model_name: Optional[str] = None,
-        temperature: float = 0.7,
+        temperature: float = 0.0,
     ) -> "LLMBuilder":
         api_key = os.getenv("AZURE_OPENAI_API_KEY")
-        api_base = os.getenv("AZURE_OPENAI_API_BASE")
+        api_base = os.getenv("AZURE_OPENAI_ENDPOINT")
         deploy = deployment_name or os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
+        api_version = os.getenv("AZURE_OPENAI_API_VERSION")
         if not (api_key and api_base and deploy):
             raise ValueError(
-                "Missing one of AZURE_OPENAI_API_KEY, AZURE_OPENAI_API_BASE, "
+                "Missing one of AZURE_OPENAI_API_KEY, AZURE_OPENAI_ENDPOINT, "
                 "or AZURE_OPENAI_DEPLOYMENT_NAME in environment"
             )
         self._provider = Provider.AZURE
         self._config = {
-            "openai_api_key": api_key,
-            "openai_api_base": api_base,
-            "deployment_name": deploy,
-            "model_name":      model_name or deploy,
+            "api_key": api_key,
+            "azure_endpoint": api_base,
+            "azure_deployment": deploy,
+            "api_version":     api_version,
             "temperature":     temperature,
         }
         return self
@@ -114,13 +117,13 @@ class LLMBuilder:
 
     def build(self):
         if self._provider == Provider.OPENAI:
-            return OpenAI(**self._config)
+            return ChatOpenAI(**self._config)
         elif self._provider == Provider.AZURE:
-            return AzureOpenAI(**self._config)
+            return AzureChatOpenAI(**self._config)
         elif self._provider == Provider.CLAUDE:
-            return Anthropic(**self._config)
+            return ChatAnthropic(**self._config)
         elif self._provider == Provider.GEMINI:
-            return GoogleGemini(**self._config)
+            return ChatGoogleGenerativeAI(**self._config)
         elif self._provider == Provider.GROK:
             # return Grok(**self._config)
             raise NotImplementedError("Grok support stubbed out")
